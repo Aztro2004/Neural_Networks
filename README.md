@@ -1,5 +1,5 @@
 # Neural_Networks
-Projects for Neural Networks class
+Projects and Homework for Neural Networks class
 
 The repository has the following projects:
 - Image Classiffier:
